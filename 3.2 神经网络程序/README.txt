@@ -1,0 +1,4 @@
+BQuanBuShuJuYanMo.zip包含B题全部数据的掩模图像，为jpg格式，根据所给的临床数据中阴性和阳性划分。
+BShiLiYanMo.zip包含B题示例数据的掩模图像，为jpg格式，根据所给的临床数据中阴性和阳性划分。
+FeatherExtractionUsingAlexNet.m是使用AlexNet对掩模图像进行特征提取。
+TransferLearningUsingAlexNet是使用AlexNet对掩膜图像进行迁移学习
